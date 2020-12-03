@@ -1,0 +1,13 @@
+.img
+.booklist{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    padding: 1em;
+    margin: 1em;
+}
+
+.margin{
+    margin: 1em;
+}
